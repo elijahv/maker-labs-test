@@ -10,3 +10,5 @@ _italic_
 
 I uploaded a graphic
 ![WhatsAppForNonprofits](https://user-images.githubusercontent.com/3868907/231552943-8a1b189a-b03b-474f-b512-ef3e935ae6af.jpg)
+
+If we want to add diagrams or other sophisticated design elements we'll need someone with some code skills: https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files
